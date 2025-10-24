@@ -63,7 +63,6 @@ export default function HomePage() {
 
         {/* Footer */}
         <p className="text-gray-400 text-sm mt-10">
-          Built with ❤️ using Next.js, Socket.io, and WebRTC
         </p>
       </div>
     </main>
